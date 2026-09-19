@@ -2,7 +2,7 @@
 
 ### § 56
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Vstup na služobný preukaz príslušníka zboru, preukaz zamestnanca zboru a preukaz zamestnanca detenčného ústavu
 >
 > (1) Príslušník zboru a zamestnanec zboru sú oprávnení vstupovať do chráneného objektu a zamestnanec detenčného ústavu do detenčného ústavu, ak predložia služobný preukaz príslušníka zboru, preukaz zamestnanca zboru alebo preukaz zamestnanca detenčného ústavu. Rozsah pohybu príslušníka zboru, zamestnanca zboru a zamestnanca detenčného ústavu v chránenom objekte vyplýva z ich služobného zaradenia alebo pracovného zaradenia alebo z osobitného písomného splnomocnenia vydaného príslušným nadriadeným.
@@ -13,7 +13,7 @@ Ustanovenie § 56 otvára piatu hlavu zákona venovanú vstupu do chránených o
 
 ### § 57
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Vstup na služobný preukaz alebo osobnú identifikačnú kartu
 >
 > (1) Vstupovať do chráneného objektu je oprávnený aj príslušník Policajného zboru, príslušník Hasičského a záchranného zboru, príslušník Slovenskej informačnej služby, príslušník Národného bezpečnostného úradu, colník, príslušník Vojenského spravodajstva, vojenský policajt, vojak ozbrojených síl, ktorý vykonáva profesionálnu službu,¹³) vojak mimoriadnej služby, vojak operačných záloh a vojak pohotovostných záloh,¹⁴) ak plní úlohy vyplývajúce zo služobnej činnosti.
@@ -24,7 +24,7 @@ Kým § 56 upravuje vstup vlastných príslušníkov zboru, § 57 rozširuje okr
 
 ### § 58
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Vstup na doklad totožnosti
 >
 > (1) Vstup do chráneného objektu možno povoliť osobe, ak preukáže oprávnený záujem a predloží doklad totožnosti.⁷ᵇ) Na účely vstupu do chráneného objektu sa za doklad totožnosti nepovažuje potvrdenie o občianskom preukaze podľa osobitného predpisu.¹⁵)
@@ -85,7 +85,7 @@ Paragraf 58 je najrozsiahlejším a najdetailnejším ustanovením piatej hlavy 
 
 ### § 62
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Vstup orgánov poverených kontrolou a dozorom
 >
 > Orgánom povereným kontrolou a dozorom nad výkonom detencie, výkonom väzby a výkonom trestu odňatia slobody podľa tohto zákona, medzinárodných zmlúv,¹⁶ᵇ) ktorými je Slovenská republika viazaná, alebo osobitných predpisov¹⁶ᶜ) sa umožní vstup do chránených objektov kedykoľvek, bez časového obmedzenia.
@@ -94,7 +94,7 @@ Ustanovenie § 62 (číselný odstup od § 58 zodpovedá tomu, že §§ 59 až 6
 
 ### § 63
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pri plnení úloh podľa tohto zákona zbor spolupracuje so štátnymi orgánmi, s obcami, právnickými osobami a fyzickými osobami s cieľom zabezpečiť účel výkonu väzby a účel výkonu trestu odňatia slobody.
 >
 > (2) Zbor spolupracuje s Policajným zborom, Slovenskou informačnou službou, Vojenským spravodajstvom, colnými orgánmi, ozbrojenými silami a Vojenskou políciou najmä pri plnení úloh na úseku boja proti terorizmu a organizovanému zločinu, pri odhaľovaní trestných činov, bezprostrednom prenasledovaní osôb na úteku, pri ochrane verejného poriadku a bezpečnosti v objektoch súdu, v objektoch prokuratúry a v ich blízkosti, pri vyhľadávaní omamných látok, psychotropných látok, jedov, prekurzorov, výbušnín, nástražných a výbušných systémov, pri výcviku v oblasti služobnej kynológie a pri výcviku príslušníkov zboru.
@@ -111,7 +111,7 @@ Paragraf 63 otvára šiestu hlavu zákona nazvanú Súčinnosť zboru so štátn
 
 ### § 64
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Štát zodpovedá za škodu, ktorá vznikla osobe, ktorá poskytla pomoc zboru alebo jeho príslušníkovi pri výkone služby na jeho žiadosť alebo s jeho vedomím (ďalej len „poškodený"). Štát sa tejto zodpovednosti môže zbaviť iba vtedy, ak si túto škodu spôsobil poškodený úmyselne.
 >
 > (2) Ak došlo u poškodeného k ujme na zdraví alebo k smrti, postupuje sa podľa predpisov o odškodňovaní pracovných úrazov zamestnancov. Popri náhradách podľa pracovnoprávnych predpisov patrí
@@ -138,7 +138,7 @@ Siedma hlava zákona, otvorená § 64, upravuje náhradu škody v súvislosti s 
 
 ### § 65
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zhromažďovanie a ochrana informácií a osobných údajov
 >
 > (1) Zbor v rozsahu svojich úloh vytvára a prevádzkuje informačné systémy, v ktorých zhromažďuje, uchováva a využíva informácie a osobné údaje potrebné na plnenie úloh zboru podľa tohto zákona alebo osobitných predpisov.¹⁷ᶜ) Na informačné systémy zboru sa vzťahuje osobitný predpis,¹⁷ᵈ) ak v tomto zákone nie je ustanovené inak.
@@ -153,7 +153,7 @@ Siedma hlava zákona, otvorená § 64, upravuje náhradu škody v súvislosti s 
 
 ### § 65a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Spracúvanie, poskytovanie a sprístupňovanie informácií a osobných údajov
 >
 > (1) Zbor spracúva osobné údaje bez súhlasu dotknutých osôb v súlade s osobitným predpisom.¹⁷ᶠ) Osobné údaje o uchádzačoch o vznik služobného pomeru alebo pracovného pomeru k zboru a osobné údaje o príslušníkoch zboru a zamestnancoch zboru spracúva zbor v rozsahu podľa osobitného predpisu.¹⁷ᵍ) Údaje o osobách, voči ktorým bolo začaté trestné stíhanie, sa zhromažďujú v rozsahu primeranom tomuto konaniu. Osobné údaje o osobách vo výkone väzby a výkone trestu odňatia slobody zbor spracúva v rozsahu zodpovedajúcom naplneniu účelu väzby a výkonu trestu odňatia slobody vymedzenom osobitnými predpismi.¹⁷ʰ) V rozsahu zodpovedajúcom riadnemu uplatneniu právnych nárokov obetí trestných činov a iných poškodených osôb sa spracúvajú aj ich osobné údaje poskytnuté nimi v rámci trestného konania.
@@ -194,7 +194,7 @@ Paragraf 65a je jadrom úpravy nakladania s osobnými údajmi v pôsobnosti zbor
 
 ### § 65b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Kontrola, oprava a vymazanie informácií alebo osobných údajov
 >
 > (1) Ak to okolnosti dovoľujú, zbor pri každom poskytnutí osobných údajov posúdi ich správnosť; ak je to potrebné, doplní dostupné informácie, ktoré umožnia posúdiť správnosť údajov.
@@ -211,7 +211,7 @@ Paragraf 65b dopĺňa hmotnoprávnu úpravu spracúvania údajov o procesné zá
 
 ### § 65c
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Výmena informácií s členskými štátmi Európskej únie na účely trestného konania
 >
 > (1) Zbor je na účely predchádzania a odhaľovania trestných činov, za ktoré možno uložiť trest odňatia slobody v trvaní viac ako jeden rok, zisťovania páchateľov týchto trestných činov a vyšetrovania týchto trestných činov oprávnený žiadať informácie od členského štátu Európskej únie prostredníctvom úradu medzinárodnej policajnej spolupráce Prezídia Policajného zboru a za podmienok ustanovených osobitným predpisom¹⁸) poskytuje informácie členskému štátu Európskej únie prostredníctvom úradu medzinárodnej policajnej spolupráce Prezídia Policajného zboru.
@@ -224,7 +224,7 @@ Ustanovenie § 65c zavádza mechanizmus cezhraničnej výmeny informácií medzi
 
 ### § 65da
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Sťažnosť
 >
 > (1) Obvinený alebo odsúdený má právo podať sťažnosť podľa tohto zákona.
@@ -249,7 +249,7 @@ Deviata hlava zákona zavádza komplexnú, samostatnú úpravu sťažností obvi
 
 ### § 65db
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Príslušnosť na vybavenie sťažnosti
 >
 > (1) Na vybavenie sťažnosti je príslušný ústav, do ktorého pôsobnosti patrí činnosť, o ktorej sa sťažovateľ domnieva, že ňou boli porušené práva alebo právom chránené záujmy obvineného alebo odsúdeného. Ústav, ktorému je doručená sťažnosť sťažovateľa, na ktorej vybavenie nie je príslušný, postúpi túto sťažnosť príslušnému ústavu do desiatich pracovných dní od jej doručenia. Ak vznikne spor o tom, ktorý z ústavov je príslušný na vybavenie sťažnosti, ústav, v ktorom spor vznikol, sťažnosť najneskôr do desiatich pracovných dní odo dňa vzniku sporu postúpi generálnemu riaditeľstvu na rozhodnutie sporu o príslušnosť a zároveň o tom ústav písomne upovedomí sťažovateľa.
@@ -270,7 +270,7 @@ Paragraf 65db upravuje kompetenčné (príslušnostné) pravidlá pri vybavovan�
 
 ### § 65dc
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Podávanie sťažností
 >
 > (1) Sťažnosť sa podáva písomne v listinnej podobe alebo elektronickej podobe.
@@ -297,14 +297,14 @@ Paragraf 65dc upravuje formálne a obsahové náležitosti podania sťažnosti, 
 
 ### § 65dd
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Podanie sťažnosti nesmie byť podnetom ani dôvodom na vyvodzovanie dôsledkov, ktoré by sťažovateľovi spôsobili akúkoľvek ujmu.
 
 Krátke, no systémovo mimoriadne dôležité ustanovenie § 65dd zakotvuje zásadu zákazu represálií voči sťažovateľovi (tzv. anti-retaliačnú klauzulu). Jeho zmyslom je odstrániť reálnu obavu obvineného alebo odsúdeného, prípadne jeho blízkej osoby či právneho zástupcu, že samotné podanie sťažnosti, teda legitímne uplatnenie zákonom priznaného práva, by mohlo byť použité proti nemu, napríklad formou znevýhodnenia pri hodnotení správania, obmedzenia výhod, zhoršenia zaobchádzania alebo iných postihov zo strany zboru. Bez takejto záruky by sťažnostný mechanizmus upravený predchádzajúcimi aj nasledujúcimi paragrafmi zostal len formálnym právom bez reálnej využiteľnosti, pretože osoby nachádzajúce sa v mocenskej podriadenosti voči zboru (a to platí zvlášť pre osoby pozbavené osobnej slobody) by mohli byť odrádzané od jeho uplatnenia obavou z odvetných opatrení. Ustanovenie treba vykladať extenzívne, teda zákaz vyvodzovania dôsledkov sa vzťahuje nielen na formálne disciplinárne alebo iné sankčné konanie, ale na akúkoľvek ujmu v širšom zmysle, čo zahŕňa aj neformálne, fakticky pôsobiace znevýhodnenie. Porušenie tejto zásady zo strany príslušníka alebo zamestnanca zboru by mohlo samo osebe zakladať dôvod pre ďalšiu sťažnosť, prípadne aj disciplinárnu zodpovednosť dotknutého príslušníka.
 
 ### § 65de
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Odloženie sťažnosti
 >
 > (1) Organizačná zložka zboru alebo ministerstvo sťažnosť odloží, ak
@@ -329,7 +329,7 @@ Paragraf 65de taxatívne vymenúva dôvody, pre ktoré sa sťažnosť odkladá b
 
 ### § 65df
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Sťažnosť v tej istej veci
 >
 > Sťažnosť iného sťažovateľa v tej istej veci, ktorú organizačná zložka zboru alebo ministerstvo už vybavili, sa neprešetruje. Výsledok prešetrenia sťažnosti v tej istej veci sa písomne oznámi sťažovateľovi do desiatich pracovných dní od jej doručenia.
@@ -338,7 +338,7 @@ Paragraf 65df rozširuje logiku prekážky opakovaného prešetrovania z § 65de
 
 ### § 65dg
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Lehota na vybavenie sťažnosti
 >
 > (1) Organizačná zložka zboru alebo ministerstvo sú povinní sťažnosť vybaviť do 30 pracovných dní.
@@ -351,7 +351,7 @@ Paragraf 65dg stanovuje základnú, štandardnú tridsaťdňovú lehotu na vecn�
 
 ### § 65dh
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Počítanie lehôt
 >
 > (1) Lehota na vybavenie sťažnosti začína plynúť prvým pracovným dňom nasledujúcim po dni jej doručenia organizačnej zložke zboru príslušnej na jej vybavenie alebo ministerstvu; v prípade sporu o príslušnosť lehota na vybavenie sťažnosti začína plynúť prvým pracovným dňom nasledujúcim po dni doručenia určenia príslušnosti podľa § 65db ods. 1.
@@ -362,7 +362,7 @@ Ustanovenie § 65dh dopĺňa lehotu na vybavenie sťažnosti o presné pravidlá
 
 ### § 65di
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prešetrovanie sťažnosti
 >
 > (1) Prešetrovaním sťažnosti sa zisťuje skutočný stav veci a jeho súlad alebo rozpor s právnymi predpismi alebo vnútornými predpismi zboru, ako aj príčiny vzniku zistených nedostatkov a ich následky.
@@ -373,7 +373,7 @@ Paragraf 65di definuje materiálny obsah a základné zásady samotného prešet
 
 ### § 65dj
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Záznam o prešetrení sťažnosti
 >
 > (1) Ak organizačná zložka zboru alebo ministerstvo prešetrovaním sťažnosti nezistí porušenie práva alebo právom chráneného záujmu sťažovateľa, vyhodnotí sťažnosť ako „neopodstatnenú“. Ak organizačná zložka zboru alebo ministerstvo prešetrovaním sťažnosti zistí porušenie práva alebo právom chráneného záujmu sťažovateľa, vyhodnotí sťažnosť ako „opodstatnenú“. Ak sťažnosť nemožno prešetriť, organizačná zložka zboru alebo ministerstvo vybaví sťažnosť ako „nevyhodnotenú“.
@@ -402,7 +402,7 @@ Paragraf 65dj upravuje výstup prešetrovacieho procesu, teda záznam o prešetr
 
 ### § 65dk
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Žiadosť o prešetrenie vybavenia sťažnosti
 >
 > (1) Žiadosť o prešetrenie vybavenia sťažnosti (ďalej len „žiadosť“), v ktorej obvinený, odsúdený alebo právny zástupca obvineného alebo odsúdeného vyjadruje nesúhlas s vybavením svojej sťažnosti, môže obvinený, odsúdený alebo právny zástupca obvineného alebo odsúdeného podať do 15 pracovných dní od doručenia záznamu o prešetrení sťažnosti; na žiadosť podanú po lehote sa neprihliada a vráti sa obvinenému, odsúdenému alebo právnemu zástupcovi obvineného alebo odsúdeného. Proti vybaveniu sťažnosti ministerstvom nemožno podať žiadosť.
@@ -427,7 +427,7 @@ Paragraf 65dk zavádza jednostupňový opravný mechanizmus voči výsledku vyba
 
 ### § 65dl
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Kontrola vybavenia sťažností
 >
 > Generálne riaditeľstvo vykonáva kontrolu vybavenia sťažností v podmienkach zboru. Ministerstvo vykonáva kontrolu vybavovania sťažností generálnym riaditeľstvom a ústavmi. Na výkon kontroly sa vzťahujú všeobecné zásady kontrolnej činnosti podľa osobitného predpisu.¹⁸ᵇᶠᵃ)
@@ -436,7 +436,7 @@ Ustanovenie § 65dl dopĺňa individuálny, na konkrétnu sťažnosť viazaný o
 
 ### § 65dm
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Spoločné ustanovenia
 >
 > (1) Trovy, ktoré vznikli
@@ -461,7 +461,7 @@ Záverečné ustanovenie deviatej hlavy, § 65dm, zhromažďuje viacero prierezo
 
 ### § 65e
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Priestupky
 >
 > (1) Priestupku sa dopustí ten, kto:
@@ -496,21 +496,21 @@ Desiata hlava zákona, tvorená jediným paragrafom, zavádza samostatnú skutko
 
 ### § 67
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Príslušníci zboru sú povinní zachovávať mlčanlivosť o skutočnostiach, s ktorými sa oboznámili pri plnení úloh zboru alebo v súvislosti s nimi a ktoré v záujme právnických osôb a fyzických osôb vyžadujú, aby zostali utajené pred nepovolanou osobou; povinnosť mlčanlivosti sa nevzťahuje na oznámenie kriminality alebo inej protispoločenskej činnosti.¹⁸ᵉ) Od povinnosti mlčanlivosti oslobodzuje príslušníka zboru minister.
 
 Jedenásta, záverečná hlava zákona združuje spoločné, prechodné a záverečné ustanovenia rôznorodej povahy. Paragraf 67 zakotvuje všeobecnú povinnosť mlčanlivosti príslušníkov zboru, ktorá je štandardným sprievodným prvkom výkonu verejnej moci pri práci s citlivými informáciami. Kritériom, ktoré určuje rozsah tejto povinnosti, je záujem dotknutých právnických a fyzických osôb na utajení konkrétnej skutočnosti pred nepovolanou osobou, teda nejde o absolútnu, neobmedzenú mlčanlivosť o všetkom, s čím sa príslušník v službe stretne, ale o mlčanlivosť viazanú na ochranu legitímnych záujmov tretích osôb. Zákon súčasne stanovuje dôležitú výnimku, ktorá vylučuje z rozsahu mlčanlivosti oznámenie kriminality alebo inej protispoločenskej činnosti, čím sa zabraňuje tomu, aby sa povinnosť mlčanlivosti mohla zneužiť na krytie trestnej alebo inak protispoločenskej činnosti, ku ktorej sa príslušník náhodou dostal pri výkone služby; táto výnimka má povahu whistleblowerskej ochrany a je v súlade so všeobecným verejným záujmom na odhaľovaní trestnej činnosti. Druhá veta zakotvuje mechanizmus zbavenia mlčanlivosti, ktorý je výlučne v právomoci ministra, čo je logické vzhľadom na citlivosť informácií, s ktorými sa príslušníci zboru bežne stretávajú (napríklad v súvislosti s osobami vo výkone väzby a trestu), a zabraňuje tomu, aby o zbavení mlčanlivosti mohli rozhodovať nižšie zložky riadenia zboru.
 
 ### § 67a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zbor môže používať osobitné farebné vyhotovenie a označenie služobných motorových vozidiel. Osobitné farebné vyhotovenie a označenie služobných motorových vozidiel určí minister.
 
 Ustanovenie § 67a je stručným, technickým splnomocňovacím ustanovením, ktoré priznáva zboru oprávnenie používať osobitné, od bežných vozidiel odlišné farebné vyhotovenie a označenie svojich služobných motorových vozidiel. Význam tohto ustanovenia spočíva v tom, že bez výslovného zákonného splnomocnenia by osobitné označenie vozidiel orgánu verejnej moci (podobne ako napríklad u polície alebo hasičského zboru) nemuselo byť dostatočne legitimizované, najmä ak by takéto označenie malo súvisieť s osobitnými výsadami v cestnej premávke alebo s vizuálnou identifikáciou orgánu disponujúceho mocenskými oprávneniami. Konkrétnu podobu farebného vyhotovenia a označenia, teda technické a dizajnové detaily, zákon neupravuje priamo, ale zveruje ich určenie ministrovi, čo umožňuje operatívnu úpravu bez nutnosti zásahu do textu samotného zákona, napríklad pri zmene korporátnej identity alebo bezpečnostných štandardov označovania vozidiel.
 
 ### § 67b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Správu majetku štátu vykonáva generálne riaditeľstvo a ústavy podľa osobitného predpisu,¹¹ᶜ) ak odseky 2 až 5 neustanovujú inak.
 >
 > (2) Prevod správy hnuteľného majetku štátu medzi generálnym riaditeľstvom a ústavmi alebo ústavmi navzájom sa uskutočňuje na základe účtovných dokladov o výdaji a príjme a bez vykonania ponukového konania štátnym rozpočtovým organizáciám a štátnym príspevkovým organizáciám; rozhodnutie o prebytočnosti majetku štátu sa nevydáva.
@@ -527,7 +527,7 @@ Paragraf 67b upravuje osobitosti nakladania s majetkom štátu, s ktorým hospod
 
 ### § 68
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak sa v osobitných predpisoch používa termín „Zbor nápravnej výchovy Slovenskej republiky" alebo „Zbor väzenskej a justičnej stráže Slovenskej republiky" a ich príslušníci, rozumie sa tým zbor a jeho príslušníci podľa tohto zákona.
 >
 > (2) Ak sa v osobitných predpisoch používa termín „nápravnovýchovný ústav", „nápravnovýchovný ústav pre mladistvých" a „osobitná nemocnica pre obvinených a odsúdených", rozumie sa tým ústav na výkon trestu odňatia slobody, ústav na výkon trestu odňatia slobody pre mladistvých a nemocnica pre obvinených a odsúdených podľa tohto zákona.
@@ -542,21 +542,21 @@ Paragraf 68 obsahuje typické prechodné a interpretačné (legislatívno-techni
 
 ### § 68a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Týmto zákonom sa preberajú právne záväzné akty Európskej únie uvedené v prílohe.
 
 Ustanovenie § 68a je štandardnou transpozičnou klauzulou, ktorú slovenská legislatívna prax vyžaduje pri každom zákone, ktorým sa do vnútroštátneho práva preberajú (transponujú) záväzné akty práva Európskej únie, spravidla smernice. Účelom tejto klauzuly je formálne deklarovať súlad vnútroštátnej právnej úpravy s právom Únie a zabezpečiť transparentnosť pôvodu jednotlivých ustanovení zákona pre potreby notifikácie Európskej komisii, ako aj pre výkladové účely, keďže ustanovenia prevzaté z únijného práva sa musia vykladať eurokonformne, teda v súlade s cieľmi a účelom príslušného aktu Únie, z ktorého vychádzajú. Konkrétny zoznam preberaných aktov je súčasťou prílohy zákona, ktorá nie je predmetom tejto kapitoly, avšak z vecného hľadiska možno predpokladať, že medzi preberané akty patria napríklad smernice upravujúce ochranu osobných údajov spracúvaných orgánmi presadzovania práva, prípadne akty súvisiace s výmenou informácií medzi členskými štátmi v trestných veciach, na ktoré odkazuje aj § 65c tejto kapitoly.
 
 ### § 68b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Podanie doručené organizačnej zložke zboru alebo ministerstvu do 31. decembra 2015 sa vybavuje podľa predpisov účinných do 31. decembra 2015.
 
 Paragraf 68b predstavuje typické intertemporálne (prechodné) ustanovenie, ktoré rieši časový styk starej a novej právnej úpravy pri zavedení samostatnej deviatej hlavy o sťažnostiach do zákona. Jeho zmyslom je zabrániť retroaktívnemu, spätnému uplatňovaniu novej, podrobnej procesnej úpravy sťažností (§§ 65da až 65dm) na podania, ktoré boli doručené organizačnej zložke zboru alebo ministerstvu ešte pred nadobudnutím účinnosti tejto novej úpravy, teda do 31. decembra 2015. Takéto podania sa naďalej vybavujú podľa predtým platného právneho režimu, čo je v súlade so všeobecnou zásadou, podľa ktorej sa procesné vzťahy začaté pred účinnosťou novej právnej úpravy spravidla dokončujú podľa pôvodných pravidiel, pokiaľ zákonodarca výslovne nezvolí opačný postup. Ustanovenie tak zabezpečuje právnu istotu sťažovateľov, ktorí svoje podania formulovali a podávali s vedomím vtedy platných pravidiel, a chráni ich pred nepredvídateľnou zmenou procesných podmienok uprostred už prebiehajúceho vybavovania ich podania.
 
 ### § 69
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zrušujú sa:
 >
 > 1. zákon Slovenskej národnej rady č. 79/1992 Zb. o Zbore väzenskej a justičnej stráže Slovenskej republiky v znení zákona Slovenskej národnej rady č. 490/1992 Zb., zákona Národnej rady Slovenskej republiky č. 33/1994 Z. z. a zákona č. 73/1998 Z. z.,
@@ -569,7 +569,7 @@ Zrušovacie ustanovenie § 69 uzatvára legislatívny cyklus výmeny starej prá
 
 ### § 70
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Tento zákon nadobúda účinnosť 1. februára 2001.
 >
 > Rudolf Schuster v. r.

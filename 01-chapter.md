@@ -2,7 +2,7 @@
 
 ### § 1
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zbor väzenskej a justičnej stráže (ďalej len „zbor“) je ozbrojený bezpečnostný zbor, ktorý plní úlohy na úseku
 > a) výkonu väzby,
 > b) výkonu trestu odňatia slobody,
@@ -17,7 +17,7 @@ Praktický dopad tohto ustanovenia spočíva predovšetkým v tom, že vymedzuje
 
 ### § 2
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Organizácia zboru
 > (1) Zbor organizačne tvoria
 > a) generálne riaditeľstvo,
@@ -38,7 +38,7 @@ Odsek 5 určuje právnu formu generálneho riaditeľstva a ústavov ako rozpočt
 
 ### § 3
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Riadenie a kontrola zboru
 > (1) Zbor je podriadený ministrovi spravodlivosti Slovenskej republiky (ďalej len „minister"). Kontrolu zboru vykonáva minister alebo ním poverené osoby. Na čele zboru je generálny riaditeľ, ktorého do funkcie vymenúva a z funkcie odvoláva minister. 2) Generálny riaditeľ za svoju činnosť zodpovedá ministrovi. Minister do funkcie vymenúva a z funkcie odvoláva aj námestníkov generálneho riaditeľa a ostatných príslušníkov zboru v jeho priamej riadiacej pôsobnosti. 2)
 > (2) Na čele ústavu je riaditeľ, ktorého do funkcie ustanovuje a z funkcie odvoláva generálny riaditeľ. 2) Riaditeľ ústavu za svoju činnosť zodpovedá generálnemu riaditeľovi.
@@ -51,7 +51,7 @@ Odsek 2 upravuje obdobnú, no o stupeň nižšiu líniu riadenia na úrovni jedn
 
 ### § 4
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Úlohy zboru
 > (1) Zbor v rámci svojej pôsobnosti
 > a) zabezpečuje výkon väzby a výkon trestu odňatia slobody,
@@ -92,7 +92,7 @@ Písmeno v) obsahuje generálnu klauzulu, podľa ktorej zbor plní úlohy orgán
 
 ### § 5
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Znak, zástava, medaila, plaketa, odznak
 > (1) Minister môže zriadiť znak zboru a zriadiť a udeliť zástavu zboru.
 > (2) Na ocenenie výkonu služby alebo záslužného činu možno príslušníkovi zboru udeliť
@@ -115,7 +115,7 @@ Odsek 4 napokon zveruje ministrovi právomoc určiť podrobnosti o vyobrazení a
 
 ### § 6
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pri výkone služby je príslušník zboru povinný dbať na česť, vážnosť a dôstojnosť osoby i svoju vlastnú a nepripustiť, aby v súvislosti s výkonom služby vznikla osobe bezdôvodná ujma a aby prípadný zásah do jej práv a slobôd prekročil mieru nevyhnutnú na dosiahnutie účelu sledovaného výkonom služby.
 > (2) Príslušník zboru je pri výkone služby spojenej so zásahom do práv alebo slobôd osoby povinný túto osobu ihneď, ako je to možné, poučiť o jej právach, ktoré sú ustanovené v tomto zákone alebo v osobitnom predpise.
 > (3) Výkonom služby je činnosť príslušníka zboru spojená s plnením úloh podľa tohto zákona alebo podľa osobitných predpisov. 1)
@@ -128,7 +128,7 @@ Odsek 3 definuje pojem „výkon služby“ ako legislatívnu skratku, ktorá sa
 
 ### § 7
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Príslušník zboru je v čase výkonu služby povinný v medziach tohto zákona vykonať služobný zákrok proti obvinenému, odsúdenému, osobe v detencii alebo proti inej osobe, ktorá marí účel výkonu väzby, účel výkonu trestu odňatia slobody, účel výkonu detencie, ruší činnosť a poriadok v objektoch zboru, v objektoch detenčného ústavu, v objektoch súdu, v objektoch prokuratúry, v objekte, v ktorom sídli Súdna rada Slovenskej republiky, v objektoch ministerstva, na pracovisku odsúdených alebo obvinených a v ich blízkosti alebo vykonať potrebné opatrenia nevyhnutné na dosiahnutie účelu sledovaného služobným zákrokom.
 > (2) Príslušník zboru je povinný aj v čase mimo výkonu služby vykonať služobný zákrok, ak je páchaný trestný čin alebo priestupok, ktorým je bezprostredne ohrozený ľudský život, zdravie alebo majetok, a vyrozumieť o tom najbližší útvar Policajného zboru.
 > (3) Služobný zákrok je zákonom ustanovená a v jeho medziach vykonávaná činnosť príslušníka zboru, pri ktorej sa bezprostredne zasahuje do základných práv a slobôd osoby.
@@ -141,7 +141,7 @@ Odsek 2 rozširuje túto povinnosť aj na čas mimo výkonu služby, avšak len 
 
 ### § 8
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Príslušník zboru nie je povinný vykonať služobný zákrok, ak
 > a) na jeho vykonanie nebol odborne vyškolený alebo vycvičený a ak povaha služobného zákroku také odborné vyškolenie alebo vycvičenie vyžaduje,
 > b) jeho zdravotný stav, vplyv liekov alebo iných látok podstatne znižuje alebo vylučuje jeho schopnosť konať,
@@ -158,7 +158,7 @@ Odsek 3 ukladá príslušníkovi zboru, ktorému bránia dôvody podľa odseku 1
 
 ### § 9
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Iným dôležitým záujmom služby podľa § 8 ods. 1 písm. c) sa rozumie, ak príslušník zboru vykonáva alebo zabezpečuje
 > a) bezprostredné prenasledovanie osoby na úteku,
 > b) služobný zákrok pod jednotným velením,
@@ -179,7 +179,7 @@ Odsek 4 obsahuje podrobnú legálnu definíciu pojmu „bezprostredné prenasled
 
 ### § 10
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Príslušník zboru je povinný pri vykonávaní služobného zákroku použiť zodpovedajúcu výzvu, ak to povaha a okolnosti služobného zákroku dovoľujú.
 > (2) Ak to povaha služobného zákroku vyžaduje, príslušník zboru pred jeho vykonaním použije slová „V mene zákona".
 > (3) Každý je povinný poslúchnuť výzvu príslušníka zboru pri vykonávaní služobného zákroku.
@@ -192,7 +192,7 @@ Odsek 3 zakotvuje všeobecnú povinnosť každého — teda nielen osôb vo výk
 
 ### § 11
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Preukazovanie príslušnosti k zboru
 > (1) Príslušník zboru je povinný pred služobným zákrokom preukázať svoju príslušnosť k zboru, ak to povaha a okolnosti služobného zákroku dovoľujú.
 > (2) Príslušník zboru preukazuje príslušnosť k zboru
@@ -222,7 +222,7 @@ Odsek 7 obsahuje dôležitú ochrannú úpravu na strane samotného príslušní
 
 ### § 11a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zákaz používať označenia „Zbor väzenskej a justičnej stráže“ a „ZVJS“ a zákaz používať služobnú rovnošatu zboru
 > (1) Ak tento zákon alebo osobitný predpis 7) neustanovuje inak, zakazuje sa v ústnom vyhlásení, na odeve, v písomnom styku, v názve domény webového sídla a na vozidle používať označenia „Zbor väzenskej a justičnej stráže“ alebo „ZVJS“ vo všetkých tvaroch, vrátane zmien v ich diakritike a so začiatočnými malými písmenami.
 > (2) Ak tento zákon alebo osobitný predpis 7) neustanovuje inak, zakazuje sa používať služobnú rovnošatu zboru a odev, ktorý by mohol byť zameniteľný so služobnou rovnošatou zboru.
@@ -236,7 +236,7 @@ Odsek 3 zveruje právomoc udeľovať výnimky z týchto zákazov generálnemu ri
 
 ### § 12
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oprávnenie požadovať vysvetlenie
 > (1) Príslušník zboru je pri plnení úloh podľa tohto zákona oprávnený požadovať potrebné vysvetlenie od osoby, ktorá môže prispieť k objasneniu
 > a) priestupku,
@@ -262,7 +262,7 @@ Odsek 7 ukladá príslušníkovi zboru povinnosť predvedenú osobu buď ihneď 
 
 ### § 13
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oprávnenie požadovať preukázanie totožnosti
 > (1) Príslušník zboru je oprávnený vyzvať osobu, ak je to potrebné na plnenie úloh podľa tohto zákona, aby preukázala svoju totožnosť dokladom totožnosti 7b) alebo iným hodnoverným spôsobom,
 > a) ak osoba svojím správaním ruší výkon služby pri ochrane objektov zboru, objektov detenčného ústavu a v ich blízkosti, pri ochrane majetku štátu v správe generálneho riaditeľstva alebo ústavov, počas eskortovania obvineného alebo odsúdeného, pri dodávaní osoby a pri ochrane verejného poriadku a bezpečnosti v objektoch súdu, v objektoch prokuratúry a v ich blízkosti,
@@ -278,7 +278,7 @@ Odsek 3 opäť ukladá dokumentačnú povinnosť — príslušník zboru o predv
 
 ### § 13a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oprávnenie vykonávať prehliadku objektov prístupných verejnosti
 > Pri plnení úloh spojených s bezprostredným prenasledovaním osoby na úteku je príslušník zboru oprávnený vykonávať prehliadky objektov prístupných verejnosti, ak je dôvodné podozrenie, že sa v nich osoba na úteku zdržiava.
 
@@ -288,7 +288,7 @@ Požiadavka dôvodného podozrenia predstavuje objektivizovaný štandard, ktor�
 
 ### § 13b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oprávnenie vykonať osobnú prehliadku obvinených a odsúdených a prehliadku ich osobných vecí
 > (1) Príslušník zboru je oprávnený vykonať osobnú prehliadku obvinených a odsúdených a prehliadku ich osobných vecí a nariadiť, aby sa obvinený alebo odsúdený podrobil zdravotnej prehliadke.
 > (2) Osobná prehliadka obvinených a odsúdených a prehliadka ich osobných vecí je preventívno-bezpečnostné opatrenie, ktorého účelom je
@@ -309,7 +309,7 @@ Odsek 6 upravuje najprísnejšiu formu tohto opatrenia — dôkladnú osobnú pr
 
 ### § 13ba
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oprávnenie zaistiť osobu
 > (1) Príslušník zboru je oprávnený zaistiť osobu
 > a) vstupujúcu do objektov zboru, objektov detenčného ústavu, objektov súdu, objektov prokuratúry, objektu ministerstva a objektu, v ktorom sídli Súdna rada Slovenskej republiky, ak lustráciou v pátracích informačných systémoch vedených Policajným zborom podľa osobitného predpisu 6) zistil, že po tejto osobe sa pátra,
@@ -328,7 +328,7 @@ Odsek 3 obsahuje trojicu ďalších pravidiel: dokumentačnú povinnosť formou 
 
 ### § 13bb
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oprávnenie zaistiť vec
 > (1) Príslušník zboru v objekte zboru, objekte detenčného ústavu a objekte ministerstva alebo v ich blízkosti a na pracovisku obvinených alebo odsúdených je oprávnený zaistiť vec na vykonanie potrebných úkonov, ak má dôvodné podozrenie, že vec súvisí so spáchaním trestného činu alebo priestupku a jej zaistenie je potrebné na zistenie skutkového stavu veci alebo na rozhodnutie orgánu činného v trestnom konaní alebo na rozhodnutie orgánu v konaní o priestupku. Príslušník zboru bezodkladne vydá osobe, ktorej bola vec zaistená, potvrdenie o zaistení veci s opisom veci, ktorý umožní zaistenú vec identifikovať.
 > (2) Ak sa vykonanými úkonmi potvrdí, že zaistená vec súvisí s trestným činom alebo s priestupkom, príslušník zboru je povinný zaistenú vec bezodkladne odovzdať príslušnému orgánu činnému v trestnom konaní alebo orgánu príslušnému na objasnenie priestupku. Ak príslušný orgán činný v trestnom konaní alebo orgán príslušný na objasnenie priestupku zaistenú vec neprevezme, postupuje sa podľa odsekov 3 až 11.
@@ -354,7 +354,7 @@ Odsek 10 odkazuje na osobitný predpis upravujúci nakladanie s majetkom štátu
 
 ### § 13c
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oprávnenie monitorovať a prerušiť činnosť lietadiel
 > (1) Činnosť lietadla 8c) je zakázaná v objektoch chránených zborom podľa § 49 ods. 9 (ďalej len „chránený objekt“) a v priestore nad nimi do výšky 120 metrov nad úrovňou zeme.
 > (2) Zákaz podľa odseku 1 neplatí na činnosti vykonávané so súhlasom generálneho riaditeľa alebo riaditeľa ústavu, na vynútené alebo bezpečnostné pristátie lietadla a na činnosti uskutočňované vo verejnom záujme lietadlami, ktoré vykonávajú lety v štátnom záujme, najmä lety na zdolávanie požiarov, lety zdravotníckej záchrannej služby, lety lietadiel pri vykonávaní služby pátrania a záchrany a lety lietadiel v policajných službách.
@@ -368,7 +368,7 @@ Odsek 3 vybavuje príslušníka zboru konkrétnymi technickými a donucovacími 
 
 ### § 13d
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oprávnenie použiť bezpilotné lietadlo
 > (1) Príslušník zboru je pri plnení úloh podľa tohto zákona oprávnený vyhotovovať zvukové, obrazové alebo iné záznamy prostredníctvom bezpilotného lietadla. 8d) Vyhotovené záznamy sa vymažú po uplynutí 30 dní odo dňa ich vyhotovenia, ak nie sú použité na účely uvedené v § 21d ods. 4 a 5.
 > (2) Bezpilotné lietadlo musí mať na viditeľnom mieste umiestnené označenie „ZVJS“. Zbor eviduje informáciu o dôvode, dátume, dobe a trase letu bezpilotného lietadla.
@@ -379,7 +379,7 @@ Odsek 2 ukladá dve doplnkové povinnosti súvisiace s transparentnosťou a kont
 
 ### § 14
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oprávnenia pri zabezpečovaní bezpečnosti osôb v chránených objektoch
 > (1) Príslušník zboru je oprávnený nariadiť, aby sa osoba v chránenom objekte podrobila prehliadke, prehliadke batožín a vecí pri vstupe do chráneného objektu, v chránenom objekte alebo pri odchode z chráneného objektu, kontrole na detekciu kovových predmetov a na prechovávanie alkoholických nápojov, omamných látok, psychotropných látok, jedov alebo prekurzorov.
 > (2) Príslušník zboru je oprávnený vykonať prehliadku dopravného prostriedku pri vjazde do chráneného objektu, v chránenom objekte alebo pri výjazde z chráneného objektu.
@@ -406,7 +406,7 @@ Odseky 6 a 7 upravujú technické spôsoby vykonania prehliadky batožiny, vecí
 
 ### § 15
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oprávnenie odňať zbraň, prostriedok audiovizuálnej techniky alebo inú nedovolenú vec
 > (1) Príslušník zboru je oprávnený vyzvať osobu, ktorá vstupuje do chráneného objektu, nachádza sa v ňom alebo z neho odchádza, aby mu vydala zbraň, prostriedok audiovizuálnej techniky alebo inú nedovolenú vec.
 > (2) Príslušník zboru je oprávnený presvedčiť sa, či osoba uposlúchla výzvu na vydanie zbrane, prostriedku audiovizuálnej techniky alebo inej nedovolenej veci, a v prípade márnej výzvy je príslušník zboru oprávnený odňať jej ich. O ich odňatí vydá príslušník zboru písomné potvrdenie. Odňatie prostriedku audiovizuálnej techniky sa nevzťahuje na osoby uvedené v § 58 ods. 4 písm. a) až i) a na osoby, ktorým udelil súhlas generálny riaditeľ zboru.
@@ -424,7 +424,7 @@ Odseky 5 až 7 obsahujú tri legálne definície kľúčových pojmov použitýc
 
 ### § 15a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oprávnenie vykonať kontrolu na požitie alkoholických nápojov, omamných látok, psychotropných látok, jedov alebo prekurzorov
 > (1) Príslušník zboru je oprávnený vyzvať osobu, ktorá vstupuje do chráneného objektu alebo sa v ňom nachádza, aby sa v prípade podozrenia, že je pod vplyvom alkoholu, omamných látok, psychotropných látok, jedov alebo prekurzorov, podrobila kontrole na ich požitie.
 > (2) V prípade, že sa osoba odmietne podrobiť kontrole na požitie alkoholických nápojov, omamných látok, psychotropných látok, jedov alebo prekurzorov alebo sa kontrolou preukáže, že osoba požila alkoholické nápoje, omamné látky, psychotropné látky, jedy alebo prekurzory, je príslušník zboru oprávnený takejto osobe neumožniť vstup do chráneného objektu alebo pohyb v chránenom objekte.
@@ -438,7 +438,7 @@ Odsek 3 opäť ukladá povinnosť neodkladne spísať úradný záznam o neumož
 
 ### § 16
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oprávnenie zastavovať a prehliadať dopravné prostriedky
 > (1) Pri bezprostrednom prenasledovaní osoby na úteku je príslušník zboru oprávnený zastaviť dopravný prostriedok a vykonať jeho prehliadku v rozsahu potrebnom na zistenie, či sa v ňom prepravuje osoba na úteku.
 > (2) Pri plnení úloh vyplývajúcich z tohto zákona má príslušník zboru oprávnenia podľa osobitného predpisu. 9a)
@@ -449,7 +449,7 @@ Odsek 2 obsahuje odkazovaciu normu na osobitný predpis, ktorým sa priznávajú
 
 ### § 17
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oprávnenie zakázať vstup osoby alebo vjazd dopravným prostriedkom na určené miesto alebo prikázať zotrvanie na určenom mieste
 > Ak si to vyžaduje plnenie úloh uvedených v tomto zákone, príslušník zboru je oprávnený každému prikázať, aby v nevyhnutne potrebnom čase nevstupoval alebo nevchádzal dopravným prostriedkom na určené miesto, nezdržiaval sa na tomto mieste alebo aby na nevyhnutne potrebný čas zotrval na určenom mieste.
 
@@ -459,7 +459,7 @@ Kľúčovým obmedzujúcim prvkom tohto oprávnenia je časové kritérium „ne
 
 ### § 18
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oprávnenie držať a používať výbušniny, výbušné predmety, ich vzorky, omamné látky, psychotropné látky, jedy a prekurzory
 > Riaditeľom ústavu alebo generálnym riaditeľom určený príslušník zboru je oprávnený na účely výučby, výcviku a skúšok držať, skladovať a používať výbušniny, výbušné predmety, ich vzorky, omamné látky, psychotropné látky, jedy a prekurzory.
 
@@ -469,7 +469,7 @@ Zákon tu explicitne vyžaduje personálnu determináciu oprávnenej osoby — n
 
 ### § 19
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oprávnenia pri zabezpečovaní verejného poriadku
 > Príslušník zboru je oprávnený v súvislosti s plnením úloh zboru spolupôsobiť s príslušnými útvarmi Policajného zboru pri zabezpečovaní verejného poriadku.
 
@@ -479,7 +479,7 @@ Praktický význam tohto ustanovenia spočíva v tom, že vytvára zákonný pod
 
 ### § 20
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oprávnenie na odtiahnutie dopravného prostriedku
 > Príslušník zboru je oprávnený vykonať potrebné opatrenia na to, aby dopravný prostriedok odstavený v bezprostrednej blízkosti chránených objektov, objektov súdu, objektov prokuratúry alebo na inom mieste označenom dopravným označením „zákaz zastavenia“ nebránil plneniu úloh zboru, ak bol odstavením dopravného prostriedku porušený osobitný predpis, 9b) alebo vodič na tomto mieste odstavil dopravný prostriedok napriek príkazu príslušníka zboru podľa § 17.
 
@@ -489,7 +489,7 @@ Zákon viaže toto oprávnenie na dve alternatívne podmienky — buď bol odsta
 
 ### § 21
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oprávnenie uzatvoriť verejne prístupné miesta a oprávnenie vykonať prehliadku
 > (1) Príslušník zboru je oprávnený pri bezprostrednom prenasledovaní osoby na úteku uzatvoriť verejne prístupné miesta alebo verejne prístupné objekty a vykonať ich prehliadku s cieľom zistiť, či sa uvedená osoba v nich nenachádza.
 > (2) Pri bezprostrednom prenasledovaní osoby na úteku je príslušník zboru oprávnený vstúpiť aj do obydlia alebo do iného verejne neprístupného objektu na účely zadržania osoby na úteku, pokiaľ má dôvodné podozrenie, že sa tam ukrýva osoba na úteku.
@@ -505,7 +505,7 @@ Odsek 5 upravuje samostatnú, vecne odlišnú situáciu súvisiacu s bezpečnost
 
 ### § 21a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oprávnenie použiť služobného psa na pachové práce
 > Príslušník zboru je pri plnení úloh vyplývajúcich z tohto zákona oprávnený použiť služobného psa na pachové práce najmä pri vyhľadávaní omamných látok, psychotropných látok, jedov, prekurzorov, výbušnín, nástražných a výbušných systémov, munície, nebezpečných látok a iných nedovolených vecí.
 
